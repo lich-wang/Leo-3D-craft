@@ -218,10 +218,85 @@
     </mxGraphModel>
   </diagram>
   <diagram id="O5k2PgkLTcbQKAz9J3Fx" name="A1 封箱">
-    <mxGraphModel dx="1426" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10334" dy="8727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-8" value="200MM料盘 俯视图" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=63;" vertex="1" parent="1">
+          <mxGeometry x="11460" y="109.37000000000003" width="787.4" height="787.4" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-12" value="料盘正视图" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="1">
+          <mxGeometry x="1910" y="70" width="314.96" height="826.77" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-13" value="料盘正视图" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="70" width="314.96" height="826.77" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-14" value="料盘正视图" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="1">
+          <mxGeometry x="2850" y="60" width="314.96" height="826.77" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-15" value="料盘正视图" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="1">
+          <mxGeometry x="3250" y="60" width="314.96" height="826.77" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1810" y="-2520" width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-16" value="A1 本体" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-18">
+          <mxGeometry width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.bambulab.com/a1/manual/faq/%E7%A9%BA%E9%97%B4.png;clipPath=inset(31.59% 36% 6.07% 25.67%);" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-18">
+          <mxGeometry x="16.190000000000055" y="55.4699999999998" width="1798.32" height="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-177" y="-1319.18" width="1830.705" height="3287.6800000000003" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-4" value="热床后方" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-21">
+          <mxGeometry y="551.1800000000002" width="1830.705" height="767.7149999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-5" value="热床前端" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-21">
+          <mxGeometry y="2933.3500000000004" width="1830.705" height="354.33" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-6" value="电源线位置" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-21">
+          <mxGeometry width="1830.705" height="551.18" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-20" value="" style="group" vertex="1" connectable="0" parent="x2NNBHyVpTY2hgbB6gnr-21">
+          <mxGeometry y="1319.18" width="1830.705" height="1614.17" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-3" value="A1 本体 俯视图" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-20">
+          <mxGeometry width="1830.705" height="1614.1699999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.bambulab.com/a1/manual/faq/heatbed-space23.png;clipPath=inset(21% 10.62% 22.67% 24.32%);" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-20">
+          <mxGeometry x="35" y="11.110000000000014" width="1776.33" height="1580" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-23" value="下方净空储藏/烘干机布置灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="4140" y="984.25" width="2755.9" height="1771.6499999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-24" value="AMS 料盘 区域" style="rounded=0;whiteSpace=wrap;html=1;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="4140" width="2755.9" height="984.25" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="4530" y="-2500" width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-27" value="A1 本体" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-26">
+          <mxGeometry width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-28" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.bambulab.com/a1/manual/faq/%E7%A9%BA%E9%97%B4.png;clipPath=inset(31.59% 36% 6.07% 25.67%);" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-26">
+          <mxGeometry x="16.190000000000055" y="55.4699999999998" width="1798.32" height="2330" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-29" value="下方净空储藏/烘干机布置灯" style="rounded=0;whiteSpace=wrap;html=1;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="7460" width="2755.9" height="2775.9" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-30" value="AMS 料盘 区域" style="rounded=0;whiteSpace=wrap;html=1;fontSize=72;" vertex="1" parent="1">
+          <mxGeometry x="7443" y="-3440" width="2755.9" height="984.25" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-31" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="7840" y="-2450" width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-32" value="A1 本体" style="whiteSpace=wrap;html=1;fontSize=66;" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-31">
+          <mxGeometry width="1830.705" height="2440.94" as="geometry" />
+        </mxCell>
+        <mxCell id="x2NNBHyVpTY2hgbB6gnr-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://wiki.bambulab.com/a1/manual/faq/%E7%A9%BA%E9%97%B4.png;clipPath=inset(31.59% 36% 6.07% 25.67%);" vertex="1" parent="x2NNBHyVpTY2hgbB6gnr-31">
+          <mxGeometry x="16.190000000000055" y="55.4699999999998" width="1798.32" height="2330" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
